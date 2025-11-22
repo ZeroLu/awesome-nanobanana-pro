@@ -1,14 +1,14 @@
 <a id="readme-top"></a>
-# Awesome 💎 Gempix Prompts ✨
+# Awesome 💎 Nano Banana Pro Prompts ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-<a href="https://github.com/ZeroLu/awesome-gempix/stargazers">
-  <img src="https://img.shields.io/github/stars/ZeroLu/awesome-gempix?style=social" alt="GitHub stars">
+<a href="https://github.com/ZeroLu/awesome-nanobanana-pro/stargazers">
+  <img src="https://img.shields.io/github/stars/ZeroLu/awesome-nanobanana-pro?style=social" alt="GitHub stars">
 </a>
 
-🎉 Welcome to the Awesome Gempix Prompts Collection!
+🎉 Welcome to the Awesome Nano Banana Pro Prompts Collection!
 
-This is a curated collection of outstanding images and prompts generated with **Gempix**, a powerful new image model. By showcasing its advanced capabilities, this repository serves as a hub for inspiration and a practical guide for creators looking to explore the cutting edge of AI image generation.
+This is a curated collection of outstanding images and prompts generated with **Nano Banana Pro**, a powerful new image model. By showcasing its advanced capabilities, this repository serves as a hub for inspiration and a practical guide for creators looking to explore the cutting edge of AI image generation.
 
 The prompts and creative ideas are sourced from talented creators across Twitter/X 🐦 and various AI communities 🎨. May these examples spark your imagination 💡 and supercharge your creative workflow 🚀.
 
@@ -19,7 +19,7 @@ The prompts and creative ideas are sourced from talented creators across Twitter
 <a id="table-of-contents"></a>
 ## Contents
 
-- [💎 What is Gempix](#gempix-intro)
+- [💎 What is Nano Banana Pro](#Nano Banana Pro-intro)
 - [📖 Cases Directory](#cases-toc)
 - [🛠️ Tools & Resources](#tools-intro)
 - [💡 Prompting Tips](#prompting-tips)
@@ -29,10 +29,10 @@ The prompts and creative ideas are sourced from talented creators across Twitter
 
 ---
 
-<a id="gempix-intro"></a>
-## 💎 What is Gempix
+<a id="Nano Banana Pro-intro"></a>
+## 💎 What is Nano Banana Pro
 
-**Gempix** is a state-of-the-art generative model designed for high-fidelity image creation and editing. It stands out for its deep semantic understanding and remarkable ability to translate complex, nuanced prompts into stunningly accurate and creative visuals. Gempix is not just a tool; it's a creative partner for artists, designers, and innovators.
+**Nano Banana Pro** is a state-of-the-art generative model designed for high-fidelity image creation and editing. It stands out for its deep semantic understanding and remarkable ability to translate complex, nuanced prompts into stunningly accurate and creative visuals. Nano Banana Pro is not just a tool; it's a creative partner for artists, designers, and innovators.
 
 - ✨ **Semantic Diffusion Core**: Deeply understands prompts, translating complex abstract ideas into visually coherent and detailed images.
 - 🎨 **Dynamic Style Synthesis**: Can blend diverse artistic styles seamlessly or create entirely new aesthetics from simple descriptions, giving creators unparalleled control.
@@ -75,8 +75,8 @@ The prompts and creative ideas are sourced from talented creators across Twitter
 ### Case 1: Creative Ad with Doodle (by [@azed_ai](https://x.com/azed_ai))
 [Source Link](https://x.com/azed_ai/status/1923016036120658122)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="450" alt="Gempix Output for Case 1">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="450" alt="Nano Banana Pro Output for Case 1">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
 ```
@@ -90,8 +90,8 @@ A minimalist and creative advertisement set on a clean white background. A real 
 ### Case 2: Glass Retexturing (by [@egeberkina](https://x.com/egeberkina))
 [Source Link](https://x.com/egeberkina/status/1920448389960909085)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v=1" width="450" alt="Gempix Output for Case 2">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v=1" width="450" alt="Nano Banana Pro Output for Case 2">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 ```
@@ -119,8 +119,8 @@ retexture the image attached based on the JSON aesthetic below
 ### Case 3: Perspective 3D Pop-Out Effect (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v=1" width="450" alt="Gempix Output for Case 3">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v=1" width="450" alt="Nano Banana Pro Output for Case 3">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 ```
@@ -134,8 +134,8 @@ Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne
 ### Case 4: Chrome Emoji Pin (by [@egeberkina](https://x.com/egeberkina))
 [Source Link](https://x.com/egeberkina/status/1919398870867440124)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v=1" width="450" alt="Gempix Output for Case 4">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v=1" width="450" alt="Nano Banana Pro Output for Case 4">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 ```
@@ -149,8 +149,8 @@ highly detailed 3D render of a single metallic {👍} emoji pin attached to a ve
 ### Case 5: Signature City Weather Forecast (by [@dotey](https://x.com/dotey))
 [Source Link](https://x.com/dotey/status/1917988595228438771)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1" width="450" alt="Gempix Output for Case 5">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1" width="450" alt="Nano Banana Pro Output for Case 5">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 ```
@@ -164,8 +164,8 @@ Show a clear 45-degree bird’s-eye view of an isometric miniature city scene fe
 ### Case 6: Code Style Business Card (by [@umesh_ai](https://x.com/umesh_ai))
 [Source Link](https://x.com/umesh_ai/status/1915696926596415492)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png?v=1" width="450" alt="Gempix Output for Case 6">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png?v=1" width="450" alt="Nano Banana Pro Output for Case 6">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 ```
@@ -186,8 +186,8 @@ The card displays the following code formatted in JSON:
 ### Case 7: Lego Cityscape (by [@dotey](https://x.com/dotey))
 [Source Link](https://x.com/dotey/status/1917713810346872902)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v=1" width="450" alt="Gempix Output for Case 7">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v=1" width="450" alt="Nano Banana Pro Output for Case 7">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 ```
@@ -201,8 +201,8 @@ Create a highly detailed and vividly colored LEGO-style scene of the Shanghai Bu
 ### Case 8: Creative Logo Shaped Bookshelf (by [@umesh_ai](https://x.com/umesh_ai))
 [Source Link](https://x.com/umesh_ai/status/1916517976414495161)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-h3g_ajtU5hs70Yy0tskiN.png?v=1" width="450" alt="Gempix Output for Case 8">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-h3g_ajtU5hs70Yy0tskiN.png?v=1" width="450" alt="Nano Banana Pro Output for Case 8">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 ```
@@ -216,8 +216,8 @@ Create a photograph of a modern bookshelf inspired by the shape of [LOGO]. The b
 ### Case 9: Original Pokemon Creation (by [@Anima_Labs](https://x.com/Anima_Labs))
 [Source Link](https://x.com/Anima_Labs/status/1915044265895379166)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png?v=1" width="450" alt="Gempix Output for Case 9">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/Anima_Labs">@Anima_Labs</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png?v=1" width="450" alt="Nano Banana Pro Output for Case 9">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/Anima_Labs">@Anima_Labs</a></sub>
 
 **Prompt**
 ```
@@ -232,8 +232,8 @@ Create an original creature inspired by this object (photo provided). The creatu
 ### Case 10: Futuristic Logo Trading Card (by [@hewarsaber](https://x.com/hewarsaber))
 [Source Link](https://x.com/hewarsaber/status/1912933875166171515)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-QGCQ1jjuNoKYgwFDo61qW.png?v=1" width="450" alt="Gempix Output for Case 10">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/hewarsaber">@hewarsaber</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-QGCQ1jjuNoKYgwFDo61qW.png?v=1" width="450" alt="Nano Banana Pro Output for Case 10">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/hewarsaber">@hewarsaber</a></sub>
 
 **Prompt**
 ```
@@ -247,8 +247,8 @@ A futuristic trading card with a dark, moody neon aesthetic. The card features a
 ### Case 11: Steampunk Mechanical Fish (by [@f-is-h](https://github.com/f-is-h))
 [Source Link](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png?v=1" width="450" alt="Gempix Output for Case 11">
-<sub>Image generated with Gempix • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png?v=1" width="450" alt="Nano Banana Pro Output for Case 11">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub>
 
 **Prompt**
 ```
@@ -262,8 +262,8 @@ A steampunk-style mechanical fish with a brass body and clearly visible gear mec
 ### Case 12: Fake Tweet Screenshot (by [@egeberkina](https://x.com/egeberkina))
 [Source Link](https://x.com/egeberkina/status/1914299716394778713)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-5NAPAcMNSLl7j8PuX5mnt.png?v=1" width="450" alt="Gempix Output for Case 12">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-5NAPAcMNSLl7j8PuX5mnt.png?v=1" width="450" alt="Nano Banana Pro Output for Case 12">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 ```
@@ -277,8 +277,8 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 ### Case 13: Colorful Vector Art Poster (by [@michaelrabone](https://x.com/michaelrabone))
 [Source Link](https://x.com/michaelrabone/status/1913865394139316291)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4z8yN-EVHRBthTnpCB8Ka.png?v=1" width="450" alt="Gempix Output for Case 13">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/michaelrabone">@michaelrabone</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4z8yN-EVHRBthTnpCB8Ka.png?v=1" width="450" alt="Nano Banana Pro Output for Case 13">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/michaelrabone">@michaelrabone</a></sub>
 
 **Prompt**
 ```
@@ -292,8 +292,8 @@ Barcelona Spain colourful summer vector art poster with big "BARCELONA" title at
 ### Case 14: 8-Bit Pixel Icon (by [@egeberkina](https://x.com/egeberkina))
 [Source Link](https://x.com/egeberkina/status/1913654508330058064)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png?v=1" width="450" alt="Gempix Output for Case 14">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png?v=1" width="450" alt="Nano Banana Pro Output for Case 14">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 ```
@@ -307,8 +307,8 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 ### Case 15: Paper Craft Style Emoji Icon (by [@egeberkina](https://x.com/egeberkina))
 [Source Link](https://x.com/egeberkina/status/1912521263085482464)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png?v=1" width="450" alt="Gempix Output for Case 15">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png?v=1" width="450" alt="Nano Banana Pro Output for Case 15">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 ```
@@ -322,8 +322,8 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 ### Case 16: ESC Keycap Miniature Diorama (by [@egeberkina](https://x.com/egeberkina))
 [Source Link](https://x.com/egeberkina/status/1911368319212408926)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png?v=1" width="450" alt="Gempix Output for Case 16">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png?v=1" width="450" alt="Nano Banana Pro Output for Case 16">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 ```
@@ -337,8 +337,8 @@ A hyper-realistic isometric 3D render of a miniature computer setup inside a tra
 ### Case 17: Minimalist 3D Illustration (by [@dotey](https://x.com/dotey))
 [Source Link](https://x.com/dotey/status/1907131027253772399)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1" width="450" alt="Gempix Output for Case 17">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1" width="450" alt="Nano Banana Pro Output for Case 17">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 ```
@@ -362,8 +362,8 @@ Draw a Toilet
 ### Case 18: Funko Pop Figure Creation (by [@dotey](https://x.com/dotey))
 [Source Link](https://x.com/dotey/status/1909047283485671924)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jCu4umK_f5nXmIbJCXh8U.png?v=1" width="450" alt="Gempix Output for Case 18">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jCu4umK_f5nXmIbJCXh8U.png?v=1" width="450" alt="Nano Banana Pro Output for Case 18">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 ```
@@ -378,8 +378,8 @@ Transform the person in the photo into the style of a Funko Pop figure box, pres
 ### Case 19: PS2 Game Cover (by [@dotey](https://x.com/dotey))
 [Source Link](https://x.com/dotey/status/1904978767090524372)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-grand.jpeg" width="450" alt="Gempix Output for Case 19">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-grand.jpeg" width="450" alt="Nano Banana Pro Output for Case 19">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 ```
@@ -393,8 +393,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ### Case 20: 3D Polaroid Breakout Effect (by [@dotey](https://x.com/dotey))
 [Source Link](https://x.com/dotey/status/1908238003169903060)
 
-<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_crFMo57tTJ1ttPkPCte1.png?v=1" width="450" alt="Gempix Output for Case 20">
-<sub>Image generated with Gempix • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+<img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_crFMo57tTJ1ttPkPCte1.png?v=1" width="450" alt="Nano Banana Pro Output for Case 20">
+<sub>Image generated with Nano Banana Pro • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 ```
@@ -417,6 +417,6 @@ If your work is included here and you wish to change the attribution or have it 
 <a id="star-history"></a>
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ZeroLu/awesome-gempix&type=Date)](https://www.star-history.com/#ZeroLu/awesome-gempix&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ZeroLu/awesome-Nano Banana Pro&type=Date)](https://www.star-history.com/#ZeroLu/awesome-Nano Banana Pro&Date)
 
 [⬆️ Back to Top](#readme-top)
