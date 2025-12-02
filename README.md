@@ -7,11 +7,9 @@
 
 This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model. 
 
-## Try all the propmts live at👉 [nanobananaproprompts.com](https://nanobananaproprompts.com)
+### Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hello-there) if you want more high quality content like this.
 
-Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hello-there) if you want more high quality content like this.
-
-Sponsor: [thesorawatermarkremover.com](https://thesorawatermarkremover.com)
+### Sponsor: [thesorawatermarkremover.com](https://thesorawatermarkremover.com)
 [<img width="600" height="265" alt="image" src="https://github.com/user-attachments/assets/b087445c-d3ad-4152-8e28-33a5ca49d4b5" />](https://thesorawatermarkremover.com)
 
 
