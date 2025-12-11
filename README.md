@@ -12,47 +12,11 @@ This repository focuses on **high-fidelity image prompts** sourced from X (Twitt
 
 Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hello-there) or follow me on [X](https://x.com/zerolu_eth) if you want more high quality content like this.
 
-### Sponsor One: [Sora Watermark Remover](https://thesorawatermarkremover.com)
+### Sponsor: [Sora Watermark Remover](https://thesorawatermarkremover.com)
 
 [<img width="600" height="265" alt="image" src="https://github.com/user-attachments/assets/b087445c-d3ad-4152-8e28-33a5ca49d4b5" />](https://thesorawatermarkremover.com)
 
 
-### Sponsor Two: [Polymeric Cloud Limited](https://www.polymericcloud.com/)
-<table>
-<tr>
-<td width="60%" valign="top">
-<img src="https://img.shields.io/badge/Enterprise%20Access-Available-blue" alt="Badge">
-<h3 style="margin-top: 10px;">🏢 Enterprise Token Access</h3>
-<p>For production workloads requiring stability, security, and high concurrency, we offer enterprise-grade token access for <b>Nano Banana Pro</b> & <b>Gemini 3 Pro</b>.</p>
-<b>Common use cases:</b>
-<ul>
-<li>SaaS platforms embedding AI models</li>
-<li>High-volume batch generation (50k–1M+)</li>
-<li>Stable domestic availability & concurrency</li>
-<li>Compliance, invoicing, procurement workflows</li>
-<li>Enterprise-level key isolation & security</li>
-</ul>
-<hr>
-<p>📌 <b>Authorized Google Cloud Partner</b><br>
-<a href="https://cloud.google.com/find-a-partner/partblockchain">Click here for verification check</a></p>
-</td>
-<td width="40%" valign="top">
-<div align="center">
-<br>
-<h3>📮 Contact for Access</h3>
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/02b037b3-d9c6-4bf4-a6a4-dd583b932849" /><br>
-<p>📱 <b>WeChat Support</b></p>
-<p>
-✉️ <b>Email</b><br>
-<code>support@polymericcloud.com</code>
-<br><br>
-☎️ <b>Hotline</b><br>
-<code>4006107779-5500</code>
-</p>
-</div>
-</td>
-</tr>
-</table>
 
 This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
 
