@@ -1754,6 +1754,7 @@ Keep the tone supportive, simple and clear.
 
 - [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively.
 - [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide)
+* [DEUTLI Free Prompt Extractor](https://huggingface.co/spaces/deutli/deutli) - Extracts generation metadata from images into the structured .deut digital negative format. ([Format Specs](https://github.com/deut-li/open-deut-format))
 
 ## 12. Contributing
 
