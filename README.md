@@ -2,6 +2,7 @@
 
 #### Please also check out 👉 [this awesome repo of Seedance 2.0 prompts!](https://github.com/ZeroLu/awesome-seedance) 👈
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=ZeroLu_awesome-nanobanana-pro) - Follow developers on GitHub and get a feed of what they star and build.
 # Awesome Nano Banana Pro 🍌
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-nanobanana-pro?style=social)](https://github.com/ZeroLu/awesome-nanobanana-pro/stargazers)
