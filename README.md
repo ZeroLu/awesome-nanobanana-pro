@@ -143,6 +143,7 @@ The background is a darkly lit room, probably under the podium. The main emphasi
 Without changing her original face, create a portrait of a beautiful young woman with porcelain-white skin, captured with a 1990s-style camera using a direct front flash. Her messy dark brown hair is tied up, posing with a calm yet playful smile. She wears a modern oversized cream sweater. The background is a dark white wall covered with aesthetic magazine posters and stickers, evoking a cozy bedroom or personal room atmosphere under dim lighting. The 35mm lens flash creates a nostalgic glow.
 ```
 *Source: [@kingofdairyque](https://x.com/kingofdairyque/status/1991780760030961768?s=20)*
+- [Toolquix - AI Tools](https://toolquix.com/categories/ai-tools) - A curated directory of free AI tools, ChatGPT resources, and artificial intelligence software.
 
 ### 1.5. One-Click Business Photo (Silicon Valley Style)
 *Transforms casual photos into professional studio headshots using specific lens and lighting instructions.*
