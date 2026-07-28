@@ -1748,6 +1748,7 @@ Keep the tone supportive, simple and clear.
 - [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively.
 - [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide)
 - [Doloffer Guide](https://github.com/Doloffer-g/guide) - A practical guide for DolOffer users to save money on subscriptions like GPT and Claude.
+- [Image Studio](https://image.tinchak0207.xyz) - Web tool to generate Nano Banana Pro / GPT Image 2 images directly in the browser, no API key or relay station needed.
 
 ## 12. Contributing
 
