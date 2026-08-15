@@ -1748,6 +1748,7 @@ Keep the tone supportive, simple and clear.
 
 - [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively.
 - [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide)
+- [Chinese GPT Image 2 + Nano Banana Pro prompts](https://github.com/tinchak0207/awesome-gpt-image-2-nano-banana-pro-zh-prompts) - 32 task-focused, source-attributed templates for Chinese creators, with an [online playground](https://image.tinchak0207.xyz) that needs no personal API key configuration.
 - [Doloffer Guide](https://github.com/Doloffer-g/guide) - A practical guide for DolOffer users to save money on subscriptions like GPT and Claude.
 
 ## 12. Contributing
