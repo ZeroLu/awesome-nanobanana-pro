@@ -5,6 +5,8 @@ Last updated on 2026-09-10 02:17:01
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-nanobanana-pro?style=social)](https://github.com/ZeroLu/awesome-nanobanana-pro/stargazers) [![AtomGitStars](https://atomgit.com/ZeroLuAtom/awesome-nanobanana-pro/star/badge.svg)](https://atomgit.com/ZeroLuAtom/awesome-nanobanana-pro)
 
+<a href="https://trendshift.io/repositories/21624?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-21624" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/21624/weekly" alt="ZeroLu%2Fawesome-nanobanana-pro | Trendshift" width="250" height="55"/></a>
+
 > A curated collection of the **best Nano Banana prompts**, image generation styles, and resources for advanced AI visual experiments.
 
 This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model. 
