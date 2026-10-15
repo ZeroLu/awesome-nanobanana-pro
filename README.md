@@ -482,8 +482,6 @@ Put the issue number and today's date in the corner along with a barcode and a p
 
 ### 1.17. Luxury Product Photography
 *Create a floating luxury product shot*
-<img width="400" alt="Luxury Product Photography" src="https://raw.githubusercontent.com/ZeroLu/awesome-nanobanana-pro/refs/heads/main/assets/luxury-product-shot.jpg" />
-
 **Prompt:**
 ```text
 Product:
