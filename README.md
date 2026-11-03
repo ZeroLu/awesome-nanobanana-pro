@@ -1757,6 +1757,8 @@ Keep the tone supportive, simple and clear.
 - [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively.
 - [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide)
 - [Doloffer Guide](https://github.com/Doloffer-g/guide) - A practical guide for DolOffer users to save money on subscriptions like GPT and Claude.
+- [Does Gemini Keep Your Face? 26 First-Try Photo Edits, Scored (PromptTick)](https://prompttick.com/gemini-face-consistency-test/) - First-try face-consistency test: 26 Gemini edits scored trait by trait, with the best face-lock wording and a full open dataset.
+- [Do "8k, Ultra Realistic, Masterpiece" Actually Help? 50 Images Tested (PromptTick)](https://prompttick.com/prompt-myths-tested-quality-words/) - Blind-scored test of quality-word prompt stacks in Gemini ("8k" changed the dimensions of 0 of 50 images), with a full open dataset.
 
 ## 12. Contributing
 
