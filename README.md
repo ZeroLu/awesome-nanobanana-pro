@@ -1757,6 +1757,7 @@ Keep the tone supportive, simple and clear.
 - [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively.
 - [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide)
 - [Doloffer Guide](https://github.com/Doloffer-g/guide) - A practical guide for DolOffer users to save money on subscriptions like GPT and Claude.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Live music venue directory and MCP server for touring logistics and stage references.
 
 ## 12. Contributing
 
