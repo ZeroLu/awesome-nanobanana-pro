@@ -1757,6 +1757,7 @@ Keep the tone supportive, simple and clear.
 - [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively.
 - [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide)
 - [Doloffer Guide](https://github.com/Doloffer-g/guide) - A practical guide for DolOffer users to save money on subscriptions like GPT and Claude.
+- [Nano Banana Pro Prompts on GPT Image Hub](https://www.gptimagehub.com/nano-banana-pro-prompts) - 6,000+ Nano Banana Pro prompt templates with example images, filterable by category.
 
 ## 12. Contributing
 
